@@ -1,18 +1,27 @@
 {
   "files": {
-    "main.css": "/vibetees/static/css/main.fd7b254e.css",
-    "main.js": "/vibetees/static/js/main.d58619e0.js",
+    "main.css": "/vibetees/static/css/main.042a5ddd.css",
+    "main.js": "/vibetees/static/js/main.0817eda0.js",
+    "static/media/OverSized5.jpg": "/vibetees/static/media/OverSized5.db98d4b93a63be121999.jpg",
+    "static/media/OverSized4.jpg": "/vibetees/static/media/OverSized4.ec662a906a8f7c046d07.jpg",
     "static/media/logo.png": "/vibetees/static/media/logo.c97d331f87476139efb7.png",
-    "static/media/down_sholder_grey.jpg": "/vibetees/static/media/down_sholder_grey.9cb88ce9df33d373871c.jpg",
-    "static/media/down_sholder_white.jpg": "/vibetees/static/media/down_sholder_white.03bde42a7d3c8634a119.jpg",
-    "static/media/down_sholder_pink.jpg": "/vibetees/static/media/down_sholder_pink.c46ff8f4eb7a1f192676.jpg",
-    "static/media/down_sholder_red.jpg": "/vibetees/static/media/down_sholder_red.40cda2b4174bb60ef069.jpg",
+    "static/media/OverSized2.jpg": "/vibetees/static/media/OverSized2.c28b4074cd70e42b8002.jpg",
+    "static/media/OverSized3.jpg": "/vibetees/static/media/OverSized3.68e4e81ac4c9493c6a84.jpg",
+    "static/media/OverSized6.jpg": "/vibetees/static/media/OverSized6.0b5db82e2c7b1d1f25b4.jpg",
+    "static/media/OverSized1.jpg": "/vibetees/static/media/OverSized1.ad450cfbf197a90f1782.jpg",
+    "static/media/Cyan_Normal.jpg": "/vibetees/static/media/Cyan_Normal.cabbc9d588a05a450459.jpg",
+    "static/media/White_Normal.jpg": "/vibetees/static/media/White_Normal.8cf038c2cffaa33db72a.jpg",
+    "static/media/Brown_Norma;.jpg": "/vibetees/static/media/Brown_Norma;.a05790935d90f4d2d954.jpg",
+    "static/media/Blue_Normal.jpg": "/vibetees/static/media/Blue_Normal.ecc645734437b04bf947.jpg",
+    "static/media/Gray_Normal.jpg": "/vibetees/static/media/Gray_Normal.a83fbd92dc7f61e1c13e.jpg",
+    "static/media/Red_Normal.jpg": "/vibetees/static/media/Red_Normal.7c9d6183a74ac3a4a474.jpg",
+    "static/media/Black_Normal.jpg": "/vibetees/static/media/Black_Normal.549aed5132e97392f6fc.jpg",
     "index.html": "/vibetees/index.html",
-    "main.fd7b254e.css.map": "/vibetees/static/css/main.fd7b254e.css.map",
-    "main.d58619e0.js.map": "/vibetees/static/js/main.d58619e0.js.map"
+    "main.042a5ddd.css.map": "/vibetees/static/css/main.042a5ddd.css.map",
+    "main.0817eda0.js.map": "/vibetees/static/js/main.0817eda0.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd7b254e.css",
-    "static/js/main.d58619e0.js"
+    "static/css/main.042a5ddd.css",
+    "static/js/main.0817eda0.js"
   ]
 }
